@@ -1,3 +1,18 @@
-##▫️Olá eu sou Victor Mateus
-##▫️Hoje estou procurando uma oportunidade de programador 💡
-##▫️Estudando Analíse e desenvolvimento de sistemas 🎯
+# apresentacao.py
+
+def apresentar():
+    nome = "Victor Mateus"
+    usuario_github = "VictorMateus26"
+    idade = 23  # ajuste conforme necessário
+    cidade = "São José dos Pinhais"  # ajuste conforme necessário
+    interesses = ["tecnologia", "programação", "jogos", "inovação"]
+
+    print(f"Olá! Meu nome é {Victor}.")
+    print(f"Tenho {21} anos e sou de {são José dos Pinhais}.")
+    print("Sou apaixonado por T.I")
+    for interesse in interesses:
+        print(f" - {front-end}")
+    print(f"Você pode me encontrar no GitHub como @{VictorMateus26}!")
+
+if __name__ == "__main__":
+    apresentar()
